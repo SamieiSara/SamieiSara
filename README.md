@@ -4,8 +4,6 @@
 <p align="center">
   <a href="https://linkedin.com/in/sara-samiei"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:sarra.samiei@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
-  <!-- Replace with your real resume link, e.g. a PDF hosted on Google Drive or your LinkedIn "Featured" section -->
-  <a href="YOUR_RESUME_LINK_HERE"><img src="https://img.shields.io/badge/Resume-4B5563?style=flat&logo=readthedocs&logoColor=white" /></a>
 </p>
 
 ---
