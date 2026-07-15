@@ -6,12 +6,23 @@
   <a href="mailto:sarra.samiei@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
 </p>
 
+
+# Hey, I'm Sara Samiei 👋
+
+🎯 Data Analyst | Power BI & SQL Specialist | Turning Data into Decisions
+
 ---
 
-### 🎯 About me
+📊 **I don't just build reports — I build the story behind the numbers.**
 
-Data Analyst with 3+ years turning raw data into decisions across finance, manufacturing, and public-sector projects. I build Power BI dashboards and SQL/Python pipelines that people actually use, recent work has cut reporting time by up to 35% and supported a $50M+ loan portfolio's fraud and credit-risk monitoring.
+I'm a Data Analyst based in **Ottawa, ON** with 3+ years of experience across manufacturing, IT, construction, finance, and public-sector environments. I work primarily in **Power BI, SQL, Python, and Excel** to turn messy data into dashboards and models that actually drive decisions.
 
+*"Good data tells you what happened. Good analysis tells you what to do next."*
+
+---
+
+### 📫 Let's Connect
+[LinkedIn](https://linkedin.com/in/sara-samiei) • [GitHub](https://github.com/SamieiSara) • sarra.samiei@gmail.com
 ---
 
 ### 🧰 Tech stack
