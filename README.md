@@ -42,8 +42,15 @@ Data Analyst with 3+ years turning raw data into decisions across finance, manuf
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat&logo=claude&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-412991?style=flat&logo=openai&logoColor=white)
 
-### 🔍 Concepts
-Data Cleaning, EDA, Business Intelligence, Data Wrangling & ETL, KPI Development, Dashboard Design, Variance & Trend Analysis, Forecasting
+**Concepts**
+![Data Cleaning](https://img.shields.io/badge/Data_Cleaning-5f6368?style=flat)
+![EDA](https://img.shields.io/badge/EDA-5f6368?style=flat)
+![Business Intelligence](https://img.shields.io/badge/Business_Intelligence-5f6368?style=flat)
+![ETL](https://img.shields.io/badge/Data_Wrangling_%26_ETL-5f6368?style=flat)
+![KPI Development](https://img.shields.io/badge/KPI_Development-5f6368?style=flat)
+![Dashboard Design](https://img.shields.io/badge/Dashboard_Design-5f6368?style=flat)
+![Variance Analysis](https://img.shields.io/badge/Variance_%26_Trend_Analysis-5f6368?style=flat)
+![Forecasting](https://img.shields.io/badge/Forecasting-5f6368?style=flat)
 
 ---
 
