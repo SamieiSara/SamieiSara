@@ -70,8 +70,4 @@ Data Cleaning, EDA, Business Intelligence, Data Wrangling & ETL, KPI Development
 
 📍 Canda, ON &nbsp;·&nbsp; ✉️ sarra.samiei@gmail.com &nbsp;·&nbsp; 💼 [LinkedIn](https://linkedin.com/in/sara-samiei)
 
-<!-- GitHub stats widgets — replace SamieiSara if your username differs -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SamieiSara&show_icons=true&theme=default&hide_title=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamieiSara&layout=compact&hide_title=true" height="165"/>
-</p>
+:round_pushpin: Ottawa, ON &nbsp;·&nbsp; :email: sarra.samiei@gmail.com &nbsp;·&nbsp; :briefcase: [LinkedIn](https://linkedin.com/in/sara-samiei)
