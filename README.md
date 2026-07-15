@@ -67,7 +67,7 @@ Data Analyst with 3+ years turning raw data into decisions across finance, manuf
 
 ### 📫 Let's connect
 
-📍 Ottawa, ON &nbsp;·&nbsp; ✉️ sarra.samiei@gmail.com &nbsp;·&nbsp; 💼 [LinkedIn](https://linkedin.com/in/sara-samiei)
+📍 Canda, ON &nbsp;·&nbsp; ✉️ sarra.samiei@gmail.com &nbsp;·&nbsp; 💼 [LinkedIn](https://linkedin.com/in/sara-samiei)
 
 <!-- GitHub stats widgets — replace SamieiSara if your username differs -->
 <p align="center">
