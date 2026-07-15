@@ -6,9 +6,9 @@
   <a href="mailto:sarra.samiei@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
 </p>
 
-📊 **I don't just build reports — I build the story behind the numbers.**
+📊 **I don't just build reports, I build the story behind the numbers.**
 
-I'm a Data Analyst based in **Ottawa, ON** with 3+ years of experience across manufacturing, IT, construction, finance, and public-sector environments. I work primarily in **Power BI, SQL, Python, and Excel** to turn messy data into dashboards and models that actually drive decisions.
+I'm a Data Analyst based in **Canada, ON** with 3+ years of experience across manufacturing, IT, construction, finance, and public-sector environments. I work primarily in **Power BI, SQL, Python, and Excel** to turn messy data into dashboards and models that actually drive decisions.
 
 *"Good data tells you what happened. Good analysis tells you what to do next."*
 
