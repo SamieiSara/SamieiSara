@@ -69,5 +69,3 @@ Data Cleaning, EDA, Business Intelligence, Data Wrangling & ETL, KPI Development
 ### 📫 Let's connect
 
 📍 Canda, ON &nbsp;·&nbsp; ✉️ sarra.samiei@gmail.com &nbsp;·&nbsp; 💼 [LinkedIn](https://linkedin.com/in/sara-samiei)
-
-:round_pushpin: Ottawa, ON &nbsp;·&nbsp; :email: sarra.samiei@gmail.com &nbsp;·&nbsp; :briefcase: [LinkedIn](https://linkedin.com/in/sara-samiei)
