@@ -14,10 +14,6 @@ I'm a Data Analyst based in **Canada, ON** with 3+ years of experience across ma
 
 ---
 
-### 📫 Let's Connect
-[LinkedIn](https://linkedin.com/in/sara-samiei) • [GitHub](https://github.com/SamieiSara) • sarra.samiei@gmail.com
----
-
 ### 🧰 Tech stack
 
 **Languages & Querying**
