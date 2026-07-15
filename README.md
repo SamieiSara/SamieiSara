@@ -42,6 +42,9 @@ Data Analyst with 3+ years turning raw data into decisions across finance, manuf
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat&logo=claude&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-412991?style=flat&logo=openai&logoColor=white)
 
+### 🔍 Concepts
+Data Cleaning, EDA, Business Intelligence, Data Wrangling & ETL, KPI Development, Dashboard Design, Variance & Trend Analysis, Forecasting
+
 ---
 
 ### 📌 Featured projects
