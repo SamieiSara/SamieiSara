@@ -16,19 +16,6 @@ I'm a Data Analyst based in **Canada, ON** with 3+ years of experience across ma
 
 ### 📫 Let's Connect
 [LinkedIn](https://linkedin.com/in/sara-samiei) • [GitHub](https://github.com/SamieiSara) • sarra.samiei@gmail.com
-
----
-
-📊 **I don't just build reports — I build the story behind the numbers.**
-
-I'm a Data Analyst based in **Ottawa, ON** with 3+ years of experience across manufacturing, IT, construction, finance, and public-sector environments. I work primarily in **Power BI, SQL, Python, and Excel** to turn messy data into dashboards and models that actually drive decisions.
-
-*"Good data tells you what happened. Good analysis tells you what to do next."*
-
----
-
-### 📫 Let's Connect
-[LinkedIn](https://linkedin.com/in/sara-samiei) • [GitHub](https://github.com/SamieiSara) • sarra.samiei@gmail.com
 ---
 
 ### 🧰 Tech stack
