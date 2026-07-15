@@ -47,13 +47,11 @@ Data Analyst with 3+ years turning raw data into decisions across finance, manuf
 ---
 
 ### 📌 Featured projects
-<!-- Swap these three placeholders for your actual pinned repos. Each should link to a real repo with a notebook/dashboard people can open. -->
 
 | Project | What it does | Tech |
 |---|---|---|
-| **[Project name](your-repo-link)** | One line on the business problem and the measurable result (e.g. "predicts loan default risk; X% accuracy") | Python, scikit-learn |
-| **[Project name](your-repo-link)** | One line on what it dashboards and for whom | Power BI, DAX |
-| **[Project name](your-repo-link)** | One line on the automation/ETL problem it solves | SQL, Power Query |
+| **[Loan Portfolio Risk & Fraud Analytics](https://github.com/SamieiSara/loan-risk-fraud-analytics)** | Analyzed a 9-table relational loan dataset to flag fraud and credit risk; Power BI dashboard (4 pages) surfaces an 8% baseline default rate and fraud patterns by loan purpose, region, and customer tier | SQL, Python, Power BI (DAX) |
+| **[COVID-19 Substance Use & Healthcare Analytics](https://github.com/SamieiSara/covid19-substance-use-healthcare-analytics)** | Turned a static CIHI report into an interactive Power BI dashboard exploring how COVID-19 shifted substance-related ED visits and hospitalizations across Canada — found opioid ED visits spiked 55% in Sept 2020 | Python, Power BI (DAX) |
 
 ---
 
