@@ -12,7 +12,7 @@
 
 ### 🎯 About me
 
-Data Analyst with 3+ years turning raw data into decisions across finance, manufacturing, and public-sector projects. I build Power BI dashboards and SQL/Python pipelines that people actually use — recent work has cut reporting time by up to 35% and supported a $50M+ loan portfolio's fraud and credit-risk monitoring.
+Data Analyst with 3+ years turning raw data into decisions across finance, manufacturing, and public-sector projects. I build Power BI dashboards and SQL/Python pipelines that people actually use, recent work has cut reporting time by up to 35% and supported a $50M+ loan portfolio's fraud and credit-risk monitoring.
 
 ---
 
