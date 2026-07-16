@@ -56,9 +56,3 @@ Data Cleaning, EDA, Business Intelligence, Data Wrangling & ETL, KPI Development
 - ⚙️ Automated reporting with Python + Power Query, reducing manual processing time by **35%**
 - 📦 Improved on-time delivery **15%** and cut operational costs **8–10%** through production/inventory analytics
 - 🏗️ Improved on-time project completion **10%** via variance and trend analysis on government-funded projects
-
----
-
-### 📫 Let's connect
-
-📍 Canada &nbsp;·&nbsp; ✉️ sarra.samiei@gmail.com &nbsp;·&nbsp; 💼 [LinkedIn](https://linkedin.com/in/sara-samiei)
