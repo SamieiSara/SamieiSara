@@ -40,19 +40,9 @@ Data Cleaning, EDA, Business Intelligence, Data Wrangling & ETL, KPI Development
 
 ---
 
-### 📌 Featured projects
+### projects
 
 | Project | What it does | Tech |
 |---|---|---|
 | **[Loan Portfolio Risk & Fraud Analytics](https://github.com/SamieiSara/loan-risk-fraud-analytics)** | Analyzed a 9-table relational loan dataset to flag fraud and credit risk; Power BI dashboard (4 pages) surfaces an 8% baseline default rate and fraud patterns by loan purpose, region, and customer tier | SQL, Python, Power BI (DAX) |
 | **[COVID-19 Substance Use & Healthcare Analytics](https://github.com/SamieiSara/covid19-substance-use-healthcare-analytics)** | Turned a static CIHI report into an interactive Power BI dashboard exploring how COVID-19 shifted substance-related ED visits and hospitalizations across Canada — found opioid ED visits spiked 55% in Sept 2020 | Python, Power BI (DAX) |
-
----
-
-### 💼 Recent impact
-
-- 📊 Built SQL pipelines cleaning **30,000+ customer accounts**, cutting report generation time by **30%**
-- 🏦 Tracked credit risk, fraud rate, and loan performance KPIs for a **$50M+ portfolio**
-- ⚙️ Automated reporting with Python + Power Query, reducing manual processing time by **35%**
-- 📦 Improved on-time delivery **15%** and cut operational costs **8–10%** through production/inventory analytics
-- 🏗️ Improved on-time project completion **10%** via variance and trend analysis on government-funded projects
