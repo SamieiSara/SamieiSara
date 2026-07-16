@@ -8,7 +8,7 @@
 
 📊 **I don't just build reports, I build the story behind the numbers.**
 
-I'm a Data Analyst based in **Canada, ON** with 3+ years of experience across manufacturing, IT, construction, finance, and public-sector environments. I work primarily in **Power BI, SQL, Python, and Excel** to turn messy data into dashboards and models that actually drive decisions.
+I'm a Data Analyst based in **Canada** with 3+ years of experience across manufacturing, IT, construction, finance, and public-sector environments. I work primarily in **Power BI, SQL, Python, and Excel** to turn messy data into dashboards and models that actually drive decisions.
 
 *"Good data tells you what happened. Good analysis tells you what to do next."*
 
@@ -37,13 +37,8 @@ I'm a Data Analyst based in **Canada, ON** with 3+ years of experience across ma
 ![PowerPoint](https://img.shields.io/badge/PowerPoint-B7472A?style=flat&logo=microsoftpowerpoint&logoColor=white)
 ![Word](https://img.shields.io/badge/Word-2B579A?style=flat&logo=microsoftword&logoColor=white)
 
-
-**AI-assisted workflow**
-![Claude](https://img.shields.io/badge/Claude-D97757?style=flat&logo=claude&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/ChatGPT-412991?style=flat&logo=openai&logoColor=white)
-
 **Concepts**
-Data Cleaning, EDA, Business Intelligence, Data Wrangling & ETL, KPI Development, Dashboard Design, Variance & Trend Analysis, Forecasting
+Data Cleaning, EDA, Business Intelligence, Data Wrangling & ETL, KPI Development, Dashboard Design, Variance & Trend Analysis, Forecasting, AI-Augmented Analysis
 
 ---
 
