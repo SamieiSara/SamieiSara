@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Sara the Analyst 👋</h1>
+<h1 align="center">Hi, I'm Sara the Analyst </h1>
 <h3 align="center">Data Analyst | Power BI · SQL · Python | Turning data into decisions</h3>
 
 <p align="center">
@@ -6,7 +6,7 @@
   <a href="mailto:sarra.samiei@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
 </p>
 
-📊 **I don't just build reports, I build the story behind the numbers.**
+ **I don't just build reports, I build the story behind the numbers.**
 
 I'm a Data Analyst based in **Canada** with 3+ years of experience across manufacturing, IT, construction, finance, and public-sector environments. I work primarily in **Power BI, SQL, Python, and Excel** to turn messy data into dashboards and models that actually drive decisions.
 
@@ -14,7 +14,7 @@ I'm a Data Analyst based in **Canada** with 3+ years of experience across manufa
 
 ---
 
-### 🧰 Tech stack
+###  Tech stack
 
 **Languages & Querying**
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
